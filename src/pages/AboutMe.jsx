@@ -35,6 +35,18 @@ export default function AboutMe() {
             />
 
             <Section
+                title="Something"
+                list={[
+                    <>
+                        <a href="https://heelinmistry.github.io/grocery_price_tracker/" target="_blank"
+                             rel="noopener noreferrer">
+                        Grocery Tracker
+                    </a>
+                    </>
+                ]}
+            />
+
+            <Section
                 title="My Approach"
                 content="I focus on building modular, maintainable systems — whether that means
         coordinating feature flows in iOS with an App Coordinator, structuring
