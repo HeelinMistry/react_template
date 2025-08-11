@@ -38,10 +38,10 @@ export default function AboutMe() {
                 title="Something"
                 list={[
                     <>
-                        <a href="https://heelinmistry.github.io/grocery_price_tracker/" target="_blank"
+                        <Link href="https://heelinmistry.github.io/grocery_price_tracker/" target="_blank"
                              rel="noopener noreferrer">
-                        Grocery Tracker
-                    </a>
+                            Grocery Tracker
+                        </Link>
                     </>
                 ]}
             />
@@ -148,6 +148,14 @@ const Footer = styled.footer`
   border-top: 1px solid ${theme.muted};
   font-size: 1rem;
   color: ${theme.muted};
+`;
+
+const Link = styled.a`
+  color: ${theme.accent};
+  text-decoration: none;
+  &:hover {
+    text-decoration: underline;
+  }
 `;
 
 // ======= END =======
