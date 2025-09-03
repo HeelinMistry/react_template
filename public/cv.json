@@ -1,0 +1,178 @@
+{
+  "name": "Heelin Mistry",
+  "title": "Software Engineer",
+  "work_experience": [
+    {
+      "company": "Modern Tailors and Outfitters - Marabastad",
+      "role": "Salesperson",
+      "start_year": "January 2005",
+      "end_year": "January 2009",
+      "job_description": "",
+      "applications": []
+    },
+    {
+      "company": "Dynamic Visual Technologies (DVT)",
+      "role": "iOS Developer",
+      "start_date": "September 2015",
+      "end_date": "November 2021",
+      "job_description": "Sub-contractor to clients(Standard Bank, Discovery)",
+      "applications": [
+        {
+          "name": "DevConf 2018"
+        }
+      ]
+    },
+    {
+      "company": "Standard Bank (Online Share Trading)",
+      "role": "iOS Developer",
+      "start_date": "January 2016",
+      "end_date": "June 2019",
+      "applications": [
+        {
+          "name": "Online Share Trading",
+          "icon": "/OST.png",
+          "url": "https://apps.apple.com/za/app/standard-online-share-trading/id986005244"
+        },
+        {
+          "name": "Banking",
+          "icon": "/Banking.webp",
+          "url": "https://apps.apple.com/za/app/standard-bank-stanbic-bank/id528239110"
+        },
+        {
+          "name": "Wealth 360",
+          "icon": "/My360.webp",
+          "url": "https://apps.apple.com/za/app/my360-powered-by-standard-bank/id1315560115"
+        },
+        {
+          "name": "ASI/TFIA"
+        },
+        {
+          "name": "Robo Advisor"
+        }
+      ],
+      "job_description": "Feature Development, Maintenance, Bug Fixes"
+    },
+    {
+      "company": "Discovery (Insure)",
+      "role": "iOS Developer",
+      "start_date": "September 2019",
+      "end_date": "November 2021",
+      "applications": [
+        {
+          "name": "Discovery App",
+          "icon": "/Discovery.webp",
+          "url": "https://apps.apple.com/za/app/discovery/id458077762"
+        },
+        {
+          "name": "Discovery Insure App",
+          "icon": "/DiscoveryInsure.webp",
+          "url": "https://apps.apple.com/za/app/discovery-insure/id875808172"
+        }
+      ],
+      "job_description": "Feature Development, Maintenance, Bug Fixes"
+    },
+    {
+      "company": "Global Kinetic",
+      "role": "iOS Developer, Python Developer",
+      "start_date": "January 2022",
+      "applications": [
+        {
+          "name": "Old Mutual Money Account",
+          "icon": "/OM.webp",
+          "url": "https://apps.apple.com/za/app/om-money-account/id1172271401"
+        },
+        {
+          "name": "Bidvest",
+          "icon": "/Bidvest.webp",
+          "url": "https://apps.apple.com/za/app/bidvest-bank/id1278837149"
+        },
+        {
+          "name": "D360",
+          "icon": "/D360.webp",
+          "url": "https://apps.apple.com/sa/app/d360-bank/id1667558506"
+        },
+        {
+          "name": "KinEx"
+        },
+        {
+          "name": "FutureBank"
+        }
+      ],
+      "job_description": "Feature Development, Maintenance, Bug Fixes, Releases to App Store, Mobile Architecture"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Steganography",
+      "url": "https://github.com/HeelinMistry/steganography",
+      "description": "Embeds a secret in an image",
+      "website": "https://heelinmistry.github.io/steganography/"
+    },
+    {
+      "name": "Grocery Price Tracker",
+      "url": "https://github.com/HeelinMistry/grocery_price_tracker",
+      "description": "Web scrapes from online stores and makes available for comparison",
+      "website": "https://heelinmistry.github.io/grocery_price_tracker/"
+    },
+    {
+      "name": "CV Website",
+      "url": "https://github.com/HeelinMistry/react_template",
+      "description": "Currently viewing the CV build website for react",
+      "website": "https://heelinmistry.github.io/react_template/"
+    }
+  ],
+  "education": [
+    {
+      "name": "Pretoria Hindu School",
+      "year_complete": "2009",
+      "accomplishment": "1 distinction"
+    },
+    {
+      "name": "University of Pretoria",
+      "year_complete": "2014",
+      "accomplishment": "BSc(IT) - Information and Knowledge Systems"
+    },
+    {
+      "name": "University of Pretoria",
+      "year_complete": "2015",
+      "accomplishment": "BSc(HONS) - Computer Science"
+    },
+    {
+      "name": "Coursera - iOS Swift Development",
+      "year_complete": "2018",
+      "accomplishment": "Certificate"
+    },
+    {
+      "name": "Coursera - Software Design and Architecture",
+      "year_complete": "2018",
+      "accomplishment": "Certificate"
+    },
+    {
+      "name": "Udacity - AI Programming with Python Nanodegree",
+      "year_complete": "2019",
+      "accomplishment": "Certificate"
+    },
+    {
+      "name": "Udacity - Machine Learning",
+      "year_complete": "2019",
+      "accomplishment": "Certificate"
+    },
+    {
+      "name": "Deep Learning - Yann LeCun & Alfredo Canziani",
+      "year_complete": "2020",
+      "accomplishment": "Certificate"
+    },
+    {
+      "name": "iOS App Store & In-App Purchases",
+      "year_complete": "2020",
+      "accomplishment": "Certificate"
+    },
+    {
+      "name": "Udemy - Software Architecture & Technology of Large Scale Systems",
+      "year_complete": "2025",
+      "accomplishment": "Certificate"
+    }
+  ],
+  "contactEmail": "your.email@example.com",
+  "linkedIn": "http://za.linkedin.com/in/heelin-mistry-198162103"
+}
